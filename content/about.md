@@ -7,8 +7,9 @@ Studenten heter Magnus Andersson.
 
 ![Profilbild](../htdocs/img/magnusprofil.jpg)
 
-
-[GitHub](#)
+####Länkar
+[Anax-Flat GitHub](https://github.com/bredsjomagnus/anax-flat)
+<!--* [Tema](https://github.com/bredsjomagnus/anax-flat-theme)-->
 
 <!-- The primary focus of this site is to:
 
