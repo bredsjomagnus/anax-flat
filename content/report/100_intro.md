@@ -1,4 +1,4 @@
 Introduction
 ===============================
 
-Here are my reports for the different kmoms.
+Här följer mina redovisningar för kmom01, kmom02,..., kmom07/10.
