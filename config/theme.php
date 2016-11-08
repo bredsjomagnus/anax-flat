@@ -58,7 +58,7 @@ return [
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "Design | Me-sida",
-                "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
+                "siteLogoTextIcon" => "img/favicon/splash-icon40x40.jpg",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
