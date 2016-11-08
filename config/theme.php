@@ -23,7 +23,11 @@ return [
 
             // Style and stylesheets
             // "stylesheets" => ["css/default.min.css"],
-            "stylesheets" => ["css/style.min.css"],
+            // "stylesheets" => ["css/style.min.css"],
+            "stylesheets" => [
+                "css/style.min.css",
+                "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
+                ],
             "styleInline" => null,
 
             // JavaScript
@@ -63,14 +67,14 @@ return [
             ],
             "sort" => 2
         ],
-/*
+
         [
             "region" => "profile",
             "template" => "default/navbar-max",
             "data" => [],
             "sort" => -1
         ],
-*/
+
         [
             "region" => "navbar2",
             "template" => "default/navbar",

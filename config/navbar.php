@@ -38,7 +38,7 @@ return [
 
 
 
-/*
+
     // Used as menu together with responsive menu
     // Name of this menu
     "navbarMax" => [
@@ -50,6 +50,12 @@ return [
         // Here comes the menu structure
         "items" => [
 
+            "index" => [
+                "text"  => t("Me"),
+                "url"   => $this->di->get("url")->create("index"),
+                "title" => t("Hem"),
+                "mark-if-parent" => true,
+            ],
             "report" => [
                 "text"  => t("Report"),
                 "url"   => $this->di->get("url")->create("report"),
@@ -64,7 +70,7 @@ return [
             ],
         ],
     ],
-*/
+
 
 
     /**
