@@ -27,7 +27,8 @@ return [
             "styleInline" => null,
 
             // JavaScript
-            "javascripts" => [],
+            //"javascripts" => [],
+            "javascripts" => ["js/responsive-menu.js"],
         ],
     ],
 
