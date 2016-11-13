@@ -1,4 +1,4 @@
-About cookies
+Om cookies
 ==============================================
 
-What about cookies?
+Än så länge är detta en kakfri upplevelse.
