@@ -7,6 +7,8 @@ Ramverket som används är Anax-flat och innehållet är till stor del skrivet m
 
 Studenten bakom denna me-sida är Magnus Andersson (maaa16).
 
+[GitHub anax-flat-theme](https://github.com/bredsjomagnus/anax-flat-theme)
+
 ##Byggstenar och komponenter
 ####Markdown
 Vill man läsa mer om Markdown är [daringfireball.net](https://daringfireball.net/projects/markdown/) en bra sida.

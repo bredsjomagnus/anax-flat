@@ -1,4 +1,4 @@
-Konkakt
+Kontakt
 ==============================================
 
 Frågor ställs till:
