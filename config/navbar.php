@@ -38,6 +38,12 @@ return [
                 "text"  => t("Grid"),
                 "url"   => $this->di->get("url")->create("grid"),
                 "title" => t("Grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typography"),
+                "url"   => $this->di->get("url")->create("typography"),
+                "title" => t("Grid")
             ]
         ],
     ],
