@@ -90,5 +90,12 @@ Tabell med `class="table2 striped"`
     </tr>
 </table>
 
+###Citat (h3)
 Har man ett klämmigt citat kan man lägga in det i ett Blockquote
 > Cigarren sysselsätter både händer och mun. Därigenom har jag många gånger undgått frestelsen att antingen strypa eller bita folk som har irriterat mig. - *Winston Churchill*
+
+###Listor
+
+* Nummer 1
+* Nummer 2
+* Nummer 3
