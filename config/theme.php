@@ -47,7 +47,7 @@ return [
             "template" => "default/image",
             "data" => [
                 "class" => "logo-1",
-                "src" => "img/favicon/myicon128x128.png",
+                "src" => "img/favicon/designlogo.png",
                 "alt" => "Logo",
             ],
             "sort" => 1
@@ -57,8 +57,8 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Design | Me-sida",
-                "siteLogoTextIcon" => "img/favicon/splash-icon40x40.jpg",
+                "siteLogoText"  => "",
+                "siteLogoTextIcon" => "img/favicon/designlogo.png",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",
@@ -81,26 +81,26 @@ return [
             "data" => [],
             "sort" => 1
         ],
-        [
-            "region" => "footer",
-            "template" => "default/columns",
-            "data" => [
-                "class"  => "footer-column",
-                "columns" => [
-                    [
-                        "contentRoute" => "block/footer-col-1",
-                    ],
-                    [
-                        "contentRoute" => "block/footer-col-2",
-                        // "contentRoute" => "block/byline",
-                    ],
-                    [
-                        "contentRoute" => "block/footer-col-3",
-                    ]
-                ]
-            ],
-            "sort" => 1
-        ],
+        // [
+        //     "region" => "footer",
+        //     "template" => "default/columns",
+        //     "data" => [
+        //         "class"  => "footer-column",
+        //         "columns" => [
+        //             [
+        //                 "contentRoute" => "block/footer-col-1",
+        //             ],
+        //             [
+        //                 "contentRoute" => "block/footer-col-2",
+        //                 // "contentRoute" => "block/byline",
+        //             ],
+        //             [
+        //                 "contentRoute" => "block/footer-col-3",
+        //             ]
+        //         ]
+        //     ],
+        //     "sort" => 1
+        // ],
         [
             "region" => "footer",
             "template" => "default/block",

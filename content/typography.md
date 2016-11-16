@@ -1,3 +1,18 @@
+---
+views:
+
+    typoflash:
+        region: flash
+        template: default/content
+        sort: 1
+        data:
+            meta:
+                type: content
+                route: typoflash
+...
+
+<hr>
+
 Typography (h1)
 ============
 
@@ -24,7 +39,6 @@ Eller i ett block med flera rader.
         box-shadow: 0 0 63px -7px rgba(0,0,0,0.75);
     }
 
-Därefter följer vanlig text som följer det "magiska talet".
 
 ###Tabeller (h3)
 
