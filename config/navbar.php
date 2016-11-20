@@ -43,7 +43,13 @@ return [
             "typography" => [
                 "text"  => t("Typography"),
                 "url"   => $this->di->get("url")->create("typography"),
-                "title" => t("Grid")
+                "title" => t("Typograpy")
+            ],
+
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme")
             ]
         ],
     ],
@@ -91,6 +97,12 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typografi")
+            ],
+
+            "theme" => [
+                "text"  => t("Tema"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Theme")
             ]
         ],
     ],
