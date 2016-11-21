@@ -25,9 +25,13 @@ return [
             // "stylesheets" => ["css/default.min.css"],
             // "stylesheets" => ["css/style.min.css"],
             "stylesheets" => [
-                "css/style.min.css"
+                "css/default.min.css"
+                // "css/style.min.css"
+            ],
+            // "stylesheets" => [
+            //     "css/default.min.css"
                 // "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"
-                ],
+                // ],
             "styleInline" => null,
 
             // JavaScript
@@ -42,23 +46,23 @@ return [
      * Add default views to always include.
      */
     "views" => [
-        [
-            "region" => "header",
-            "template" => "default/image",
-            "data" => [
-                "class" => "logo-1",
-                "src" => "img/favicon/designlogo.png",
-                "alt" => "Logo",
-            ],
-            "sort" => 1
-        ],
+        // [
+        //     "region" => "header",
+        //     "template" => "default/image",
+        //     "data" => [
+        //         "class" => "logo-1",
+        //         "src" => "img/favicon/designlogo.png",
+        //         "alt" => "Logo",
+        //     ],
+        //     "sort" => 1
+        // ],
         [
             "region" => "header",
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
                 "siteLogoText"  => "",
-                "siteLogoTextIcon" => "img/favicon/designlogo.png",
+                // "siteLogoTextIcon" => "img/favicon/designlogo.png",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
                 "siteLogoAlt"   => null, //"Anax Logo",

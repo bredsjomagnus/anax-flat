@@ -6,7 +6,7 @@
 return [
 
     "separator" => "------------------------------------------------",
-    
+
     "themes" => [
 
         "separator0" => "------------------------------------------------",
@@ -32,7 +32,9 @@ return [
         "light"     =>  [
             "title"      => "Very light theme, white, black and nuances of grey",
             "class"      => "light",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/light.min.css"
+            ]
         ],
 
         "color"     => [
