@@ -40,13 +40,17 @@ return [
         "color"     => [
             "title"      => "Enhance the light theme by adding a tiny bit of color",
             "class"      => "color",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/color.min.css"
+            ]
         ],
 
         "dark"      => [
             "title"      => "Dark background and light text",
             "class"      => "dark",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/dark.min.css"
+            ]
         ],
 
         "colorful"  => [

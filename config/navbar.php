@@ -46,6 +46,13 @@ return [
                 "title" => t("Typograpy")
             ],
 
+            "analys" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis of webpages"),
+                "mark-if-parent" => true,
+            ],
+
             "theme" => [
                 "text"  => t("Tema"),
                 "url"   => $this->di->get("url")->create("theme"),
@@ -97,6 +104,13 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typografi")
+            ],
+            
+            "analys" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Analysis of webpages"),
+                "mark-if-parent" => true,
             ],
 
             "theme" => [
