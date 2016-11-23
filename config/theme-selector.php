@@ -56,7 +56,9 @@ return [
         "colorful"  => [
             "title"      => "Make a very colorful theme",
             "class"      => "colorful",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/default.min.css"
+            ]
         ],
 
         "typography" => [
