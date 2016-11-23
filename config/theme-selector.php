@@ -64,7 +64,9 @@ return [
         "typography" => [
             "title"      => "A theme where the typography really stands out",
             "class"      => "light",
-            "stylesheets" => []
+            "stylesheets" => [
+                "css/typographystyle.min.css"
+            ]
         ],
 
         "separator2" => "------------------------------------------------",
