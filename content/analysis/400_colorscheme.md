@@ -24,20 +24,21 @@ Man använder `font-family: "Open Sans", Helvetica, Arial, sans-serif;` till bå
 
 ####Färgpalett
 Några av färgerna ur färgpaletten.
-<table class="table3 striped">
-    <thead>
-        <th colspan="4">FÄRGER</th>
-        <th align="center">ACCENT</th>
-    </thead>
-    <tr>
-        <td><div style="border:1px solid gray; height:50px; width:50px; background-color: #FFF"></div></td>
-        <td><div style="border:1px solid gray; height:50px; width:50px; background-color: #85D6E4"></div></td>
-        <td><div style="border:1px solid gray; height:50px; width:50px; background-color: #10819E"></div></td>
-        <td><div style="border:1px solid gray; height:50px; width:50px; background-color: #7B86AF"></div></td>
-        <td align="center" style="border-left: 1px solid gray;"><div style="border:1px solid gray; height:50px; width:50px; background-color: #FFAE1C"></div></td>
-    </tr>
-</table>    
-
+<div class="tablediv">
+    <table class="table3 striped">
+        <thead>
+            <th colspan="4">FÄRGER</th>
+            <th align="center">ACCENT</th>
+        </thead>
+        <tr>
+            <td><div style="border:1px solid gray; height:50px; width:50px; background-color: #FFF"></div></td>
+            <td><div style="border:1px solid gray; height:50px; width:50px; background-color: #85D6E4"></div></td>
+            <td><div style="border:1px solid gray; height:50px; width:50px; background-color: #10819E"></div></td>
+            <td><div style="border:1px solid gray; height:50px; width:50px; background-color: #7B86AF"></div></td>
+            <td align="center" style="border-left: 1px solid gray;"><div style="border:1px solid gray; height:50px; width:50px; background-color: #FFAE1C"></div></td>
+        </tr>
+    </table>    
+</div>
 Färgvalet gör sidan ren och accentfärgen tydligt. Blå färg ger en lugnande signal och passar till temat - lära sig koda.
 
 
@@ -55,6 +56,7 @@ EVE-online
 Även denna sida använder samma typsnitt till både rubriker och brödtext; `font-family: 'ProximaNova-Light', Arial, sans-serif;`. Det är en sans-serif-font.
 ####Färgpalett
 Färgerna är i många nyanser men rör sig kring blåa/mörka eller röda/oranga/gula.
+<div class="tablediv">
 <table class="table3 striped">
     <thead>
         <th colspan="7">FÄRGER</th>
@@ -71,6 +73,7 @@ Färgerna är i många nyanser men rör sig kring blåa/mörka eller röda/orang
         <td align="center" style="border-left: 1px solid gray;"><div style="border:1px solid gray; height:50px; width:50px; background-color: #2980B9"></div></td>
     </tr>
 </table>  
+</div>
 Färgerna passar bra ihop och det ljusa/oranga ger bra kontrast mot det mörka/blåa. Det är rätt så naturliga färger för ett spel som rör sig i rymdmiljö. Ser man till tabellen ovan är accentfärgen är inte lika tydlig. Men den blir tydligare i sitt sammanhang, där den skapar rena ytor mot en annars färgfylld bakgrund. Accenten ligger snarare i konstrasten en färg mot många färger.
 
 <hr>
@@ -90,6 +93,7 @@ De använder en sans-serif-font och liksom tidigare tre undersökta sidor så an
 
 ####Färgpalett
 Blåa stänk mot vitt.
+<div class="tablediv">
 <table class="table3 striped">
     <thead>
         <th colspan="2">FÄRGER</th>
@@ -101,6 +105,7 @@ Blåa stänk mot vitt.
         <td align="center" style="border-left: 1px solid gray;"><div style="border:1px solid gray; height:50px; width:50px; background-color: #0078CA"></div></td>
     </tr>
 </table>  
+</div>
 
 <hr>
 
@@ -117,6 +122,7 @@ Adobe
 
 ####Färgpalett
 Nyanser från svart till rosa.
+<div class="tablediv">
 <table class="table3 striped">
     <thead>
         <th colspan="6">FÄRGER</th>
@@ -132,6 +138,7 @@ Nyanser från svart till rosa.
         <td align="center" style="border-left: 1px solid gray;"><div style="border:1px solid gray; height:50px; width:50px; background-color: #FCCD02"></div></td>
     </tr>
 </table>
+</div>
 Har svårt att säga om detta färgschema passar bättre eller sämre än något annat. Men att färgerna passar bra ihop och ger en viss tyngd. Accentfärgen gör verkligen sitt jobb, speciellt om den läggs mot de mörkare partierna så som man valt att göra det på sidan.
 
 <hr>
