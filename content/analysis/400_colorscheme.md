@@ -1,4 +1,4 @@
-Analys
+Analys - färgschema
 =========
 
 Nedan har fyra sidor analyserats med följande utgångspunkter.
