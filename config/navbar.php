@@ -57,7 +57,19 @@ return [
                 "text"  => t("Tema"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme")
-            ]
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Alice in Wonderland")
+            ],
         ],
     ],
 
@@ -105,7 +117,7 @@ return [
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typografi")
             ],
-            
+
             "analys" => [
                 "text"  => t("Analys"),
                 "url"   => $this->di->get("url")->create("analysis"),
@@ -117,7 +129,19 @@ return [
                 "text"  => t("Tema"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme")
-            ]
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
+            ],
+
+            "images" => [
+                "text"  => t("Bilder"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Alice in Wonderland")
+            ],
         ],
     ],
 

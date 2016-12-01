@@ -46,16 +46,16 @@ return [
      * Add default views to always include.
      */
     "views" => [
-        [
-            "region" => "header",
-            "template" => "default/image",
-            "data" => [
-                "class" => "logo-1",
-                "src" => "img/favicon/design_utklippt.png",
-                "alt" => "Logo",
-            ],
-            "sort" => 1
-        ],
+        // [
+        //     "region" => "header",
+        //     "template" => "default/image",
+        //     "data" => [
+        //         "class" => "logo-1",
+        //         "src" => "img/favicon/design_utklippt.png",
+        //         "alt" => "Logo",
+        //     ],
+        //     "sort" => 1
+        // ],
         [
             "region" => "header",
             "template" => "default/header",
