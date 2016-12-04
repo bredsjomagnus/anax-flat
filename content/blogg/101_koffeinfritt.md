@@ -4,7 +4,7 @@ published: "2016-11-07"
 category:
     - dagens bild
 ...
-Koffenfritt!
+Koffeinfritt!
 ===============
 
 Jag brukar skylla mitt stora intag av kaffe på mitt arbete. Det kan lätt bli några koppar för mycket och det är ju klart inte så bra.
