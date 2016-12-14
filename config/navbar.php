@@ -41,7 +41,7 @@ return [
             ],
 
             "typography" => [
-                "text"  => t("Typography"),
+                "text"  => t("Typo."),
                 "url"   => $this->di->get("url")->create("typography"),
                 "title" => t("Typograpy")
             ],
@@ -57,6 +57,11 @@ return [
                 "text"  => t("Tema"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme")
+            ],
+            "design-principle" => [
+                "text"  => t("Princ."),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprinciper")
             ],
 
             "blogg" => [
@@ -129,6 +134,12 @@ return [
                 "text"  => t("Tema"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Theme")
+            ],
+
+            "design-principle" => [
+                "text"  => t("Designprinciper"),
+                "url"   => $this->di->get("url")->create("design-principle"),
+                "title" => t("Designprinciper")
             ],
 
             "blogg" => [
