@@ -65,7 +65,7 @@ return [
             ],
 
             "design-element" => [
-                "text"  => t("Element"),
+                "text"  => t("Elem."),
                 "url"   => $this->di->get("url")->create("design-element"),
                 "title" => t("Designelement")
             ],
