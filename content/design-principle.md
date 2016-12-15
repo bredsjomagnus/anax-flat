@@ -1,3 +1,13 @@
+---
+views:
+    elementimage8:
+        region: main
+        template: default/image
+        data:
+            class: principimage elementimage
+            src: "img/principimage.png"
+
+...
 Tre olika designprinciper
 ============================
 

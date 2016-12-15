@@ -9,6 +9,17 @@ views:
             meta:
                 type: content
                 route: typoflash
+
+
+    elementimage7:
+        region: flash
+        template: default/image
+        data:
+            class: typoimage elementimage
+            src: "img/typoimage.png"
+
+
+
 ...
 
 <hr>

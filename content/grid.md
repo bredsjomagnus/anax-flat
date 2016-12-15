@@ -13,6 +13,15 @@ views:
         data:
             class: gridtest
             title: Gridtest
+
+    elementimage4:
+        region: sidebar-left
+        template: default/image
+        data:
+            class: gridimage elementimage
+            src: "img/gridimage.png"
+
+
 ...
 
 Följande text är hämtad från [wikipedia](https://en.wikipedia.org/wiki/Grid_(graphic_design)).

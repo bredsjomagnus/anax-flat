@@ -1,3 +1,14 @@
+---
+views:
+    elementimage7:
+        region: main
+        template: default/image
+        data:
+            class: temaimage elementimage
+            src: "img/temaimage.png"
+
+...
+
 Tema
 =================
 

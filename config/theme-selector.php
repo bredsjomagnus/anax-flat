@@ -94,5 +94,31 @@ return [
                 "css/emphasis.min.css"
             ]
         ],
+
+        "separator3" => "------------------------------------------------",
+
+        "opacity"       => [
+            "title"      => "Designelement - opacity!",
+            "class"      => "opacity",
+            "stylesheets" => [
+                "css/opacity.min.css"
+            ]
+        ],
+
+        "texture"       => [
+            "title"      => "Designelement - texture!",
+            "class"      => "texture",
+            "stylesheets" => [
+                "css/texture.min.css"
+            ]
+        ],
+
+        "elementimages"       => [
+            "title"      => "Designelement - elementimages!",
+            "class"      => "elementimages",
+            "stylesheets" => [
+                "css/elementimages.min.css"
+            ]
+        ],
     ]
 ];

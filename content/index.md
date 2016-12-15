@@ -1,6 +1,13 @@
 ---
 titleBreadcrumb: Home
 
+views:
+    elementimage1:
+        region: main
+        template: default/image
+        data:
+            class: meimage elementimage
+            src: "img/meimage.png"
 
 ...
 Magnus me-sida designkursen

@@ -64,6 +64,12 @@ return [
                 "title" => t("Designprinciper")
             ],
 
+            "design-element" => [
+                "text"  => t("Element"),
+                "url"   => $this->di->get("url")->create("design-element"),
+                "title" => t("Designelement")
+            ],
+
             "blogg" => [
                 "text"  => t("Blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),

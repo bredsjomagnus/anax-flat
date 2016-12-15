@@ -1,3 +1,15 @@
+---
+views:
+    elementimage11:
+        region: main
+        template: default/image
+        data:
+            class: bilderimage elementimage
+            src: "img/bilderimage.png"
+
+...
+
+
 Alice in Wonderland
 =====================================
 

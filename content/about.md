@@ -1,3 +1,14 @@
+---
+views:
+    elementimage3:
+        region: main
+        template: default/image
+        data:
+            class: aboutimage elementimage
+            src: "img/aboutimage.png"
+
+...
+
 Om denna sida
 ==============================================
 
